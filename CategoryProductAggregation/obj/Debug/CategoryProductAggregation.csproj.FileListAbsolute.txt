@@ -1,0 +1,6 @@
+D:\FPTU\Spring2021\c#\CategoryProduct\CategoryProductAggregation\bin\Debug\CategoryProductAggregation.exe
+D:\FPTU\Spring2021\c#\CategoryProduct\CategoryProductAggregation\bin\Debug\CategoryProductAggregation.pdb
+D:\FPTU\Spring2021\c#\CategoryProduct\CategoryProductAggregation\obj\Debug\CategoryProductAggregation.csprojAssemblyReference.cache
+D:\FPTU\Spring2021\c#\CategoryProduct\CategoryProductAggregation\obj\Debug\CategoryProductAggregation.csproj.CoreCompileInputs.cache
+D:\FPTU\Spring2021\c#\CategoryProduct\CategoryProductAggregation\obj\Debug\CategoryProductAggregation.exe
+D:\FPTU\Spring2021\c#\CategoryProduct\CategoryProductAggregation\obj\Debug\CategoryProductAggregation.pdb
